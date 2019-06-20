@@ -26,6 +26,8 @@ int main()
  CROWN CRICKET KA MADAM JI HUM LE JAYENGE
  INDIA VS AFGANISTAN
 
+ THIS IS FRIEND FUNCTION PROGRAM
+
 #include<iostream>
 using namespace std;
 class B;
